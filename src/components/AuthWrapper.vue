@@ -7,7 +7,6 @@ import Slide2 from '@/assets/slider/illustration-2.svg'
 import Slide3 from '@/assets/slider/illustration-3.svg'
 
 import { ref } from "vue";
-import AppBar from '@/layouts/default/AppBar.vue'
 
 const carouselImages = ref( [
         {
